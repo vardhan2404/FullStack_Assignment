@@ -1,0 +1,22 @@
+.admin-container {
+    text-align: center;
+  }
+  
+  .admin-container select {
+    width: 80%;
+    max-width: 300px;
+    margin-bottom: 10px;
+  }
+  
+  .admin-container button {
+    margin-top: 10px;
+  }
+  
+  .availability-list {
+    margin-top: 20px;
+  }
+  
+  .availability-list div {
+    margin: 10px 0;
+  }
+  

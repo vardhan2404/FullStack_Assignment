@@ -1,0 +1,24 @@
+.availability-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .availability-container input {
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 10px;
+  }
+  
+  .availability-container button {
+    margin-top: 10px;
+  }
+  
+  .availability-list {
+    margin-top: 20px;
+  }
+  
+  .availability-list p {
+    margin: 5px 0;
+  }
+  
